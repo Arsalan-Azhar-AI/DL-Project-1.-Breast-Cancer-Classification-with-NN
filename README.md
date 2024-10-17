@@ -38,14 +38,14 @@ Steps Performed:
   
     The model's performance is summarized below:
 
-Metric	Value
+Metric --> Value
 
-accuracy: 0.9784
+accuracy: 0.9784,
 loss: 0.1198
 
-val_accuracy: 0.9783
+val_accuracy: 0.9783,
 val_loss: 0.1012
 
-test-accuracy: 0.9627
+test-accuracy: 0.9627,
 test-loss: 0.1167 
 
